@@ -1,5 +1,19 @@
 # How to use:
-To run, open terminal and type 'python main.py' and follow the prompted instructions.
+NOTE: running this requires Python 2.7 to be installed. [Here's](https://www.python.org/downloads/release/python-2711/) instructions on how to install Python 2.7.
+
+Clone or download the repository, then run (double-click) the script RunMe.
+
+OR
+
+Clone or download the repository, then open Terminal (Mac) or Command Line (Windows) and `cd` to the directory of Poem-Generator, then run:
+
+For Windows:
+
+    C:\Python27\python.exe main.py
+    
+For Mac:
+
+    python main.py
 
 # Features:
 This poem engine can generate two kinds of poems: Haikus and freeform poems.
