@@ -34,7 +34,7 @@ The parts of speech is denoted as follows:
 Credits:
 [syllable data](http://www.speech.cs.cmu.edu/cgi-bin/cmudict)
 
-[provided Shakespeare's sonnets sample text](http://www.shakespeares-sonnets.com/all.php
+[provided Shakespeare's sonnets sample text](http://www.shakespeares-sonnets.com/all.php)
 
 [part of speech data](http://icon.shef.ac.uk/Moby/mpos.html)
 
