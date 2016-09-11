@@ -1,0 +1,2806 @@
+(dp0
+S'Plants'
+p1
+(lp2
+S'petal'
+p3
+aS'sepal'
+p4
+aS'stamen'
+p5
+aS'pine boughsbud'
+p6
+aS'branch'
+p7
+aS'blossom'
+p8
+aS'fruit'
+p9
+aS'bloom'
+p10
+aS'trees'
+p11
+aS'maple'
+p12
+aS'elm'
+p13
+aS'oak'
+p14
+aS'palm'
+p15
+aS'baobab'
+p16
+aS'mangrove'
+p17
+aS'cyprus'
+p18
+aS'pine'
+p19
+aS'dogwood'
+p20
+aS'alder'
+p21
+aS'flowers'
+p22
+aS'rose'
+p23
+aS'tulip'
+p24
+aS'lily'
+p25
+aS"Venus's flytrap"
+p26
+aS'hoe'
+p27
+aS'weeds'
+p28
+aS'cotton plants'
+p29
+aS'sugar canes'
+p30
+aS'red palms'
+p31
+aS'sego palms'
+p32
+aS'queen palms'
+p33
+aS'fruits'
+p34
+aS'apples'
+p35
+aS'lemons'
+p36
+aS'orange'
+p37
+aS'grapefruit'
+p38
+aS'tangerine'
+p39
+aS'peach'
+p40
+aS'tomato'
+p41
+aS'bananas'
+p42
+aS'vegetables'
+p43
+aS'artichokes'
+p44
+aS'leeks'
+p45
+aS'lettuce'
+p46
+aS'eggplants'
+p47
+aS'zucchini'
+p48
+aS'squash'
+p49
+aS'pumpkin'
+p50
+aS'cauliflower'
+p51
+aS'cabbage'
+p52
+aS'peppers'
+p53
+aS'onions'
+p54
+aS'elephant garlic'
+p55
+aS''
+p56
+asS'Buildings'
+p57
+(lp58
+S'castle'
+p59
+aS'pyramid'
+p60
+aS'jailhouse'
+p61
+aS'cliff dwellings'
+p62
+aS'igloo'
+p63
+aS'Chinese pavilion'
+p64
+aS'hair salon'
+p65
+aS'beauty salon'
+p66
+aS'hostel'
+p67
+aS'estate'
+p68
+aS'hacienda'
+p69
+aS'ranch'
+p70
+aS'ashram'
+p71
+aS'log cabin'
+p72
+aS'shed'
+p73
+aS'light house'
+p74
+aS'campanile'
+p75
+aS'hovel'
+p76
+aS'tavern'
+p77
+aS'pagoda'
+p78
+aS'abbey'
+p79
+aS'cathedral'
+p80
+aS'chapel'
+p81
+aS'auditorium'
+p82
+aS'hippodrome'
+p83
+aS'tabernacle'
+p84
+aS'stadium'
+p85
+aS'kiosk'
+p86
+aS'high-rise'
+p87
+aS'green house'
+p88
+aS'skyscraper'
+p89
+aS'theater'
+p90
+aS'casino'
+p91
+aS'bathhouse'
+p92
+aS'chalet'
+p93
+aS'cottage'
+p94
+aS'hut'
+p95
+aS'shack'
+p96
+aS'shanty'
+p97
+ag56
+aS'chateau'
+p98
+aS'bungalow'
+p99
+aS'cabin'
+p100
+aS'villa'
+p101
+aS'inn'
+p102
+aS'motel'
+p103
+aS'hotel'
+p104
+aS'silo'
+p105
+aS'barn'
+p106
+aS'restaurant'
+p107
+aS'diner'
+p108
+aS'fortress'
+p109
+aS'monastery'
+p110
+ag56
+aS'school'
+p111
+aS'tire factory'
+p112
+aS'tattoo salon'
+p113
+aS'mansion'
+p114
+aS'manor'
+p115
+aS'beauty salon'
+p116
+aS'saloon'
+p117
+aS'bank'
+p118
+aS'outhouse'
+p119
+aS'yurt'
+p120
+aS'barracks'
+p121
+aS'gas station'
+p122
+aS'garage'
+p123
+aS'office building'
+p124
+aS'tenement'
+p125
+aS'condominium'
+p126
+aS'apartments'
+p127
+aS'tepee'
+p128
+aS'townhouse'
+p129
+aS'roof shingles'
+p130
+aS'mansard roof'
+p131
+aS'stone walls'
+p132
+aS'paved patio'
+p133
+aS'outside walls'
+p134
+aS'fire escape'
+p135
+aS'siding'
+p136
+aS'clapboard siding'
+p137
+aS'cornerstone'
+p138
+aS'drawbridge'
+p139
+aS'lanai'
+p140
+aS'skywalk'
+p141
+aS'concrete steps'
+p142
+aS'porch'
+p143
+aS'veranda'
+p144
+aS'gate'
+p145
+aS'fire hydrant'
+p146
+aS'stone road'
+p147
+aS'street block'
+p148
+aS'sidewalk'
+p149
+aS'well'
+p150
+aS'artesian well'
+p151
+aS'espalier'
+p152
+aS'trellis'
+p153
+aS'cesspool'
+p154
+aS'chain-link fence'
+p155
+aS'picket fence'
+p156
+ag56
+aS'garden'
+p157
+aS'yard'
+p158
+aS'grass'
+p159
+aS'lawn'
+p160
+aS'tower'
+p161
+aS'orchard'
+p162
+aS'hedge'
+p163
+aS'bower'
+p164
+aS'gazebo'
+p165
+aS'corral'
+p166
+aS'stables'
+p167
+aS'paddock'
+p168
+aS'cabana'
+p169
+aS'carport'
+p170
+aS'flower beds'
+p171
+aS'cloister'
+p172
+aS'belfry'
+p173
+aS'cupola'
+p174
+aS'vineyard'
+p175
+aS'walkway'
+p176
+aS'bedroom'
+p177
+aS'living room'
+p178
+aS'guest room'
+p179
+aS'kitchen'
+p180
+aS'pantry'
+p181
+aS'bathroom'
+p182
+aS'atelier'
+p183
+aS'studio'
+p184
+aS'study'
+p185
+aS'attic'
+p186
+aS'atrium'
+p187
+aS'catacomb'
+p188
+aS'boudoir'
+p189
+ag56
+aS'ceiling tile'
+p190
+aS'checkroom'
+p191
+aS'closet'
+p192
+aS'den drawing room'
+p193
+ag56
+aS'study'
+p194
+aS'antechamber'
+p195
+aS'sunroom'
+p196
+aS'playroom'
+p197
+aS'nursery'
+p198
+aS'entertainment center'
+p199
+aS'meeting rooms'
+p200
+aS'powder room'
+p201
+aS'light fixtures'
+p202
+aS'chandeliers'
+p203
+aS'fanlight'
+p204
+aS'light switch'
+p205
+aS'switchboard telephone'
+p206
+aS'spiral staircase'
+p207
+aS'gallery'
+p208
+aS'bay window'
+p209
+aS'bow window'
+p210
+aS'skylight'
+p211
+aS'porthole'
+p212
+aS'double-hung window'
+p213
+aS'transom'
+p214
+aS'storm window'
+p215
+aS'sliding patio door'
+p216
+aS'hallway'
+p217
+aS'corridor'
+p218
+aS'balcony'
+p219
+aS'gallery'
+p220
+aS'study hall'
+p221
+aS'office door'
+p222
+aS'doorknob'
+p223
+aS'lock and bolt'
+p224
+aS'turnstile'
+p225
+aS'trapdoor'
+p226
+aS'cellar'
+p227
+aS'basement'
+p228
+aS'alcove'
+p229
+aS'apse'
+p230
+aS'elevator'
+p231
+aS'dumbwaiter'
+p232
+aS'hearth'
+p233
+aS'fireplace'
+p234
+aS'mantel'
+p235
+aS'loft'
+p236
+aS'loggia'
+p237
+aS'mezzanine'
+p238
+aS'stage'
+p239
+aS'rostrum'
+p240
+aS'niche'
+p241
+aS'alcove'
+p242
+ag56
+asS'Animals'
+p243
+(lp244
+S'whisker'
+p245
+aS'paws'
+p246
+aS'hoofs'
+p247
+aS'tail'
+p248
+aS'wings'
+p249
+aS'antlers'
+p250
+aS'beak'
+p251
+aS'bill'
+p252
+aS'rooster'
+p253
+aS'horn'
+p254
+aS'pouch'
+p255
+aS'pelt'
+p256
+aS'fur'
+p257
+aS'quill'
+p258
+aS'dinosaur'
+p259
+aS'mammoth'
+p260
+aS'Tyrannosaurus Rex'
+p261
+aS"frog's leg"
+p262
+aS'spider'
+p263
+aS'moth'
+p264
+aS'bug'
+p265
+aS'cockroach'
+p266
+aS'ant'
+p267
+aS'fire ant'
+p268
+aS'moth'
+p269
+aS'bat'
+p270
+aS'vulture'
+p271
+aS'owl'
+p272
+aS'peacock'
+p273
+aS'toad'
+p274
+aS'turtle'
+p275
+aS'worm'
+p276
+aS'earthworm'
+p277
+aS'toad'
+p278
+aS'porcupine'
+p279
+aS'skunk'
+p280
+aS'armadillo'
+p281
+aS'rat'
+p282
+aS'squirrel'
+p283
+aS'hedgehog'
+p284
+aS'chipmunk'
+p285
+aS'gerbil'
+p286
+aS'hamster'
+p287
+aS'opossum'
+p288
+aS'mouse'
+p289
+aS'mole'
+p290
+aS'anteater'
+p291
+aS'platypus'
+p292
+aS'otter'
+p293
+aS'calf'
+p294
+aS'cow'
+p295
+aS'oxen'
+p296
+aS'cattle'
+p297
+aS'sheep'
+p298
+aS'lamb'
+p299
+aS'ram'
+p300
+aS'goat'
+p301
+aS'kid'
+p302
+aS'pig'
+p303
+aS'hog'
+p304
+aS'sow'
+p305
+aS'fox'
+p306
+aS'vixen'
+p307
+aS'lemur'
+p308
+aS'raccoon'
+p309
+aS'weasel'
+p310
+aS'monkey'
+p311
+aS'ape'
+p312
+aS'chimpanzee'
+p313
+aS'orangutan'
+p314
+aS'baboon'
+p315
+aS'capuchin monkey'
+p316
+aS'horse'
+p317
+aS'pony'
+p318
+aS'mare'
+p319
+aS'filly'
+p320
+aS'gelding'
+p321
+aS'colt'
+p322
+aS'stallion'
+p323
+aS'donkey'
+p324
+aS'zebra'
+p325
+aS'mule'
+p326
+aS'camel'
+p327
+aS'gazelle'
+p328
+aS'bird'
+p329
+aS'goose'
+p330
+aS'duck'
+p331
+aS'drake'
+p332
+aS'turkey'
+p333
+aS'songbird'
+p334
+aS'lark'
+p335
+aS'nightingale'
+p336
+aS'wren'
+p337
+aS'eagle'
+p338
+aS'hawk'
+p339
+aS'osprey'
+p340
+aS'puppy'
+p341
+aS'kitten'
+p342
+aS'chick'
+p343
+aS'rooster'
+p344
+aS'hen'
+p345
+aS'crows'
+p346
+aS'raven'
+p347
+aS'cats'
+p348
+aS'kittens'
+p349
+aS'alley cat'
+p350
+aS'tabby'
+p351
+aS'Siamese'
+p352
+aS'Persian'
+p353
+aS'dogs'
+p354
+aS'mutt'
+p355
+aS'wolf'
+p356
+aS'cub'
+p357
+aS'tiger'
+p358
+aS'lion'
+p359
+aS'elephant'
+p360
+aS'cheetah'
+p361
+aS'puma'
+p362
+aS'boar'
+p363
+aS'jackal'
+p364
+aS'jaguar'
+p365
+aS'rhinoceros'
+p366
+aS'antelope'
+p367
+aS'elk'
+p368
+aS'deer'
+p369
+aS'doe'
+p370
+aS'fawn'
+p371
+aS'stag'
+p372
+aS'kangaroo'
+p373
+aS'koala'
+p374
+aS'sloth'
+p375
+aS'bear'
+p376
+aS'polar bear'
+p377
+aS'hyena'
+p378
+aS'panda'
+p379
+aS'alligator'
+p380
+aS'crocodile'
+p381
+aS'snakes'
+p382
+aS'giraffe'
+p383
+aS'Gila monster'
+p384
+aS'sewer rat'
+p385
+aS'pinworms'
+p386
+aS'horse flies'
+p387
+aS'wasps'
+p388
+aS'honeybees'
+p389
+aS'hornets'
+p390
+aS'fish'
+p391
+aS'whale'
+p392
+aS'shark'
+p393
+aS'dolphin'
+p394
+aS'kingfish'
+p395
+aS'seal'
+p396
+aS'sea lion'
+p397
+ag56
+asS'Clothing and Accessories'
+p398
+(lp399
+S'apron'
+p400
+aS'tie'
+p401
+aS'belt'
+p402
+aS'ascot'
+p403
+aS'cummerbund'
+p404
+aS'bandanna'
+p405
+aS'bandolier'
+p406
+aS'obi cartridge belt'
+p407
+aS'sash'
+p408
+aS'waistband'
+p409
+aS'fascia'
+p410
+aS'hamaki'
+p411
+aS'crest'
+p412
+aS'corsage'
+p413
+aS'netsuke'
+p414
+aS'frog clasps'
+p415
+aS'pompom'
+p416
+aS'wampum'
+p417
+aS'shawl'
+p418
+aS'stole'
+p419
+aS'gloves'
+p420
+aS'kid gloves'
+p421
+aS'bow tie'
+p422
+aS'clerical collar'
+p423
+aS'choker'
+p424
+aS'cravat'
+p425
+aS'dickey'
+p426
+aS'lei'
+p427
+aS'cuff links'
+p428
+aS'tie clasp'
+p429
+aS'tie clip'
+p430
+aS'string tie'
+p431
+aS'signet ring'
+p432
+aS'stick pin'
+p433
+aS'eyeglasses'
+p434
+aS'sunglasses'
+p435
+aS'granny glasses'
+p436
+aS'horn rims'
+p437
+aS'bifocals'
+p438
+aS'goggles'
+p439
+aS'contact lens'
+p440
+aS'pince-nez'
+p441
+aS'opera glasses'
+p442
+aS'monocle'
+p443
+aS'spectacles'
+p444
+aS'pocket watch'
+p445
+aS'fob'
+p446
+aS'jewelry'
+p447
+aS'gem'
+p448
+aS'jewel'
+p449
+aS'ankle bracelet'
+p450
+aS'brooch'
+p451
+aS'cameo'
+p452
+aS'charmpearl necklace'
+p453
+aS'bracelet'
+p454
+aS'earrings'
+p455
+aS'watch'
+p456
+aS'beads'
+p457
+aS'locket'
+p458
+aS'pendant'
+p459
+aS'solitaire'
+p460
+aS'studs'
+p461
+aS'tiara'
+p462
+aS'crown'
+p463
+aS'pinkie ring'
+p464
+aS'luggage'
+p465
+aS'bag'
+p466
+aS'overnighter'
+p467
+aS'pocketbook'
+p468
+aS'portfolio'
+p469
+aS'hatbox'
+p470
+aS'purse'
+p471
+aS'fanny pack'
+p472
+aS'duffel bag'
+p473
+aS'gym bag'
+p474
+aS'haversack'
+p475
+aS'golf bag'
+p476
+aS'garment bag'
+p477
+aS'suitcase'
+p478
+aS'tote bag'
+p479
+aS'wallet'
+p480
+aS'underwear'
+p481
+aS'negligee'
+p482
+aS'knickers'
+p483
+aS'bloomers'
+p484
+aS'panties'
+p485
+aS'briefs'
+p486
+aS'thongs'
+p487
+aS'slip'
+p488
+aS'cleavage'
+p489
+aS'bra'
+p490
+aS'brassiere'
+p491
+aS'chastity belt'
+p492
+aS'garter'
+p493
+aS'girdle'
+p494
+aS'boxer shorts'
+p495
+aS'jockey shorts'
+p496
+aS'suspenders'
+p497
+aS'tank top'
+p498
+aS'nightgown'
+p499
+aS'T-shirt'
+p500
+aS'thermals'
+p501
+aS'bathrobe'
+p502
+aS'pajamas'
+p503
+aS'loincloth'
+p504
+aS'baby jimmies'
+p505
+aS'footie pajamas'
+p506
+aS'argyle socks'
+p507
+aS'crew socks'
+p508
+aS'bobby socks'
+p509
+aS'anklet'
+p510
+aS'pantyhose'
+p511
+aS'stockings'
+p512
+aS'tube socks'
+p513
+aS'tights'
+p514
+aS'shoes'
+p515
+aS'shoe horns'
+p516
+aS'heels'
+p517
+aS'French heel'
+p518
+aS'wedge heel'
+p519
+aS'sandals'
+p520
+aS'slippers'
+p521
+aS'thongs'
+p522
+aS'platform shoes'
+p523
+aS'spike heels'
+p524
+aS'stilettos'
+p525
+aS'flip flops'
+p526
+aS'chancletas'
+p527
+aS'athletic shoes'
+p528
+aS'cleats'
+p529
+aS'bootee'
+p530
+aS'booties'
+p531
+aS'combat boots'
+p532
+aS'espadrille'
+p533
+aS'galoshes'
+p534
+aS'gumshoes'
+p535
+aS'waterproof boots'
+p536
+aS'riding boots'
+p537
+aS'Roman sandals'
+p538
+aS'high heels'
+p539
+aS'tap shoes'
+p540
+aS'loafers'
+p541
+aS'mukluk'
+p542
+aS'oxford'
+p543
+aS'moccasins'
+p544
+aS'wingtips'
+p545
+aS'sneakers'
+p546
+aS'work boots'
+p547
+aS'running shoes'
+p548
+aS'tennis shoes'
+p549
+aS'Wellington boots'
+p550
+aS'wooden shoes'
+p551
+aS'clogs'
+p552
+aS'klomps'
+p553
+aS'pumps'
+p554
+aS'rawhide laces'
+p555
+aS'shoelaces'
+p556
+aS'aglets'
+p557
+aS'canvas straps'
+p558
+aS'tassels'
+p559
+aS'buckles'
+p560
+aS'costume'
+p561
+aS'formals'
+p562
+aS'disguise'
+p563
+aS'garb'
+p564
+aS'raiment'
+p565
+aS'uniform'
+p566
+aS'togs'
+p567
+aS'rags'
+p568
+aS'shirt'
+p569
+aS'suit'
+p570
+aS'dress'
+p571
+aS'pants'
+p572
+aS'cap and gown'
+p573
+aS'business suit'
+p574
+aS'tuxedo'
+p575
+aS'jumpsuit'
+p576
+aS'fatigues'
+p577
+aS'pinstripes'
+p578
+aS'pantsuit'
+p579
+aS'evening dress'
+p580
+aS'strapless dress'
+p581
+aS'coverall'
+p582
+aS'frock'
+p583
+aS'dress with spaghetti straps'
+p584
+aS'snowsuit'
+p585
+aS'zoot suit'
+p586
+aS'chador'
+p587
+aS'shawl'
+p588
+aS'tutu'
+p589
+aS'kilt'
+p590
+aS'skirt'
+p591
+aS'pannier'
+p592
+aS'crinoline'
+p593
+aS'petticoat'
+p594
+aS'pinafore'
+p595
+aS'sari'
+p596
+aS'sarong'
+p597
+aS'jumper'
+p598
+aS'shift'
+p599
+aS'shirtdress'
+p600
+aS'wraparound dress'
+p601
+aS'anorak'
+p602
+aS'parka'
+p603
+aS'caftan'
+p604
+aS'vest'
+p605
+aS'cape'
+p606
+aS'trench coat'
+p607
+aS'cloak'
+p608
+aS'kimono'
+p609
+aS'Inverness'
+p610
+aS'mantua'
+p611
+aS'mantle'
+p612
+aS'peacoat'
+p613
+aS'poncho'
+p614
+aS'robe'
+p615
+aS'smock'
+p616
+aS'toga'
+p617
+aS'tunic'
+p618
+aS'blazer'
+p619
+aS'cardigan'
+p620
+aS'sweater'
+p621
+aS'turtleneck sweater'
+p622
+aS'V-necked sweater'
+p623
+aS'bolero'
+p624
+aS"fisherman's sweater"
+p625
+aS'crew-neck sweater'
+p626
+aS'bomber jacket'
+p627
+aS'double-breasted jacket'
+p628
+aS'combat jacket'
+p629
+aS'dinner jacket'
+p630
+aS'shearling'
+p631
+aS'fur coat'
+p632
+aS'fake fur coat'
+p633
+aS'dolman'
+p634
+aS'chinos'
+p635
+aS'chaps'
+p636
+aS'Capri pants'
+p637
+aS'blue jeans'
+p638
+aS'corduroys'
+p639
+aS'gaiters'
+p640
+aS'dungarees'
+p641
+aS'denims'
+p642
+aS'hip huggers'
+p643
+aS'hot pants'
+p644
+aS'shorts'
+p645
+aS'jodhpurs'
+p646
+aS'leggings'
+p647
+aS'pedal pushers'
+p648
+aS'spandex'
+p649
+aS'spanks'
+p650
+aS'tights'
+p651
+aS'trousers'
+p652
+aS'toreador pants'
+p653
+aS'bikini'
+p654
+aS'bathing suit'
+p655
+aS'gym suit'
+p656
+aS'sweats'
+p657
+aS'leotard'
+p658
+aS'swimsuit'
+p659
+aS'track suit'
+p660
+aS'wet suit'
+p661
+aS'armor'
+p662
+aS'breastplate'
+p663
+aS'epauliere'
+p664
+aS'gauntlet'
+p665
+aS'alb'
+p666
+aS'cassock'
+p667
+aS'cope'
+p668
+aS'vestmenthat'
+p669
+aS'cap'
+p670
+aS'beret'
+p671
+aS'astrakhan'
+p672
+aS'beanie'
+p673
+aS'hard hat'
+p674
+aS'pillbox'
+p675
+aS'monkey cap'
+p676
+aS'opera hat'
+p677
+aS'bonnet'
+p678
+aS'bowler'
+p679
+aS'coonskin'
+p680
+aS'fedora'
+p681
+aS'Dutch hat'
+p682
+aS'derby'
+p683
+aS'Montero'
+p684
+aS'cowboy hat'
+p685
+aS'baseball cap'
+p686
+aS'sombrero'
+p687
+aS'Tyrolean hat'
+p688
+aS'yarmulke'
+p689
+aS'skullcap'
+p690
+aS'Watteau hat'
+p691
+aS'sun hat'
+p692
+aS'tam'
+p693
+aS"tam-o'-shanter"
+p694
+aS'three-cornered hat'
+p695
+aS'sunbonnet'
+p696
+aS'toque'
+p697
+aS'top hat'
+p698
+aS'babushka'
+p699
+aS'balaclava'
+p700
+aS'crash helmet'
+p701
+aS'turban'
+p702
+aS'diadem'
+p703
+aS'earmuffs'
+p704
+aS'visor'
+p705
+aS'scarfveil'
+p706
+aS'war bonnet'
+p707
+aS'pith helmet'
+p708
+aS'hood'
+p709
+aS'miter'
+p710
+aS'shell jacket'
+p711
+ag56
+asS'Places'
+p712
+(lp713
+S'sky'
+p714
+aS'forest'
+p715
+aS'Heaven'
+p716
+aS'Hell'
+p717
+aS'earth'
+p718
+aS'sun'
+p719
+aS'stars'
+p720
+aS'planets'
+p721
+aS'Mercury'
+p722
+aS'Earth'
+p723
+aS'Venus'
+p724
+aS'Mars'
+p725
+aS'Jupiter'
+p726
+aS'Saturn'
+p727
+aS'Neptune'
+p728
+aS'Uranus'
+p729
+aS'Pluto'
+p730
+aS'outer space'
+p731
+aS'town'
+p732
+aS'village'
+p733
+aS'city'
+p734
+aS'country'
+p735
+aS'farm'
+p736
+aS'suburb'
+p737
+aS'roads'
+p738
+aS'streets'
+p739
+aS'city blocks'
+p740
+aS'zoo'
+p741
+aS'park'
+p742
+aS'museum'
+p743
+aS'cemetery'
+p744
+aS'tunnels'
+p745
+aS'caves'
+p746
+aS'churches'
+p747
+aS'temples'
+p748
+aS'mosques'
+p749
+aS'supermarket'
+p750
+aS'mall'
+p751
+ag56
+asS'People'
+p752
+(lp753
+S'senator'
+p754
+aS'governor'
+p755
+aS'representative'
+p756
+aS'councilman'
+p757
+aS'councilwoman'
+p758
+aS'congressman'
+p759
+aS'congresswoman'
+p760
+aS'tennis coach'
+p761
+aS'detective'
+p762
+aS'sleuth'
+p763
+aS'trooper'
+p764
+aS'musician'
+p765
+aS'accompanist'
+p766
+aS'instrumentalist'
+p767
+aS'concert pianist'
+p768
+aS'maestro'
+p769
+aS'conductor'
+p770
+aS'composer'
+p771
+aS'singer'
+p772
+aS'architect'
+p773
+aS'physician'
+p774
+aS'photographer'
+p775
+aS'stage manager'
+p776
+aS'usher'
+p777
+aS'song-and-dance-man'
+p778
+aS'painter'
+p779
+aS'model'
+p780
+aS'designer'
+p781
+aS'dinner guest'
+p782
+aS'attorney'
+p783
+aS'lawyer'
+p784
+aS'judge'
+p785
+aS'mayor'
+p786
+aS'city council'
+p787
+aS'therapist'
+p788
+aS'school teacher'
+p789
+aS'school principal'
+p790
+aS'professor'
+p791
+aS'orator'
+p792
+aS'philosopher'
+p793
+aS'psychologist'
+p794
+aS'man'
+p795
+aS'woman'
+p796
+aS'teen'
+p797
+aS'child'
+p798
+aS'mother'
+p799
+aS'father'
+p800
+aS'grandmother'
+p801
+aS'grandfather'
+p802
+aS'sister'
+p803
+aS'brother'
+p804
+aS'uncle'
+p805
+aS'aunt'
+p806
+aS'son'
+p807
+aS'daughter'
+p808
+aS'in-laws'
+p809
+aS'boy'
+p810
+aS'girl'
+p811
+aS'nurse'
+p812
+aS'sibling'
+p813
+aS'settler'
+p814
+aS'pioneer'
+p815
+aS'waiter'
+p816
+aS'hostess'
+p817
+aS'host'
+p818
+aS'cashier'
+p819
+aS'attendant'
+p820
+aS'publisher'
+p821
+aS'proof-reader'
+p822
+aS'agent'
+p823
+aS'witch. warlock'
+p824
+aS'ghost'
+p825
+aS'knight'
+p826
+aS'prince'
+p827
+aS'princess'
+p828
+aS'maiden'
+p829
+aS'fairy godmother'
+p830
+ag56
+asS'Food'
+p831
+(lp832
+S'cooking sherry'
+p833
+aS'stick butter'
+p834
+aS'rocky road ice cream'
+p835
+aS'cake batter'
+p836
+aS'coffee'
+p837
+aS'tea'
+p838
+aS'drink of water'
+p839
+aS'soda'
+p840
+aS'hot chocolate'
+p841
+aS'locally brewed beer'
+p842
+aS'wine'
+p843
+aS'cappuccino'
+p844
+aS'Jell-O'
+p845
+aS'nougats'
+p846
+aS'lamb chops'
+p847
+aS'steaks'
+p848
+aS'chicken and veal cutlets'
+p849
+aS'chowder'
+p850
+aS'fish soup'
+p851
+aS'spaghetti'
+p852
+aS'lobster'
+p853
+aS'sushi'
+p854
+aS'fondue'
+p855
+aS'crabs legs'
+p856
+aS'shrimp'
+p857
+aS'garlic'
+p858
+aS'onions'
+p859
+aS'Bratwurst'
+p860
+aS'kielbasa'
+p861
+aS'pate de foie gras'
+p862
+aS'head cheese'
+p863
+aS'hot dog'
+p864
+aS'hamburger'
+p865
+aS'heirloom tomato'
+p866
+aS'herbs'
+p867
+aS'grains'
+p868
+aS'legumes'
+p869
+aS'zampone'
+p870
+aS'casserole'
+p871
+aS'black beans'
+p872
+aS'pumpkin seeds'
+p873
+aS'stew'
+p874
+aS'cereal'
+p875
+aS'polenta'
+p876
+aS'pudding'
+p877
+aS'pasta'
+p878
+aS'macaroni'
+p879
+aS'ravioli'
+p880
+aS'wafer'
+p881
+aS'crackers'
+p882
+aS'cookies'
+p883
+aS'sandwich'
+p884
+aS'gyro'
+p885
+aS'wrap'
+p886
+aS'omelet'
+p887
+aS'popcorn'
+p888
+aS'walnuts'
+p889
+aS'nuts'
+p890
+aS'almonds'
+p891
+aS'strawberries'
+p892
+aS'blueberries'
+p893
+aS'raspberries'
+p894
+aS'blackberries'
+p895
+aS'dessert menu'
+p896
+aS'pizza'
+p897
+aS'chocolate mousse'
+p898
+aS'cakes'
+p899
+aS'pancake'
+p900
+aS'waffles'
+p901
+aS'French toast'
+p902
+aS'rock candy'
+p903
+aS'baked Alaska'
+p904
+ag56
+asS'Things'
+p905
+(lp906
+S'chalice'
+p907
+aS'bijou'
+p908
+aS'candelabra'
+p909
+aS'menorah'
+p910
+aS'curio'
+p911
+aS'figurine'
+p912
+aS'music-box'
+p913
+aS"objet d'art"
+p914
+aS'trinket'
+p915
+aS'trims'
+p916
+aS'wind chimes'
+p917
+aS'birdcage'
+p918
+aS'birdbath'
+p919
+aS'cans'
+p920
+aS'wastebasket'
+p921
+aS'urn'
+p922
+aS'bucket'
+p923
+aS'arrow'
+p924
+aS'bow'
+p925
+aS'sword'
+p926
+aS'dart'
+p927
+aS'epee'
+p928
+aS'dagger'
+p929
+aS'hatchet'
+p930
+aS'pickax'
+p931
+aS'popsicle stick'
+p932
+aS'scented candle'
+p933
+aS'dolls'
+p934
+aS'toy train set'
+p935
+aS'broom'
+p936
+aS'mop'
+p937
+aS'pail'
+p938
+aS'vacuum cleaner'
+p939
+aS'squeegee'
+p940
+aS'caddy'
+p941
+aS'telephone'
+p942
+aS'pipe'
+p943
+aS'paints'
+p944
+aS'brushes'
+p945
+aS'easel'
+p946
+aS'canvas'
+p947
+aS'trunk'
+p948
+aS'hook'
+p949
+aS'gun'
+p950
+aS'glue'
+p951
+aS'tissue'
+p952
+aS'toilet'
+p953
+aS'Kleenex'
+p954
+aS'paper towel'
+p955
+aS'ropes'
+p956
+aS'rubber'
+p957
+aS'metal coils'
+p958
+aS'toys'
+p959
+aS'toy pail and shovel'
+p960
+aS'dog leash'
+p961
+aS'balloon'
+p962
+aS'vases'
+p963
+aS'planters'
+p964
+aS'pen'
+p965
+aS'pad'
+p966
+aS'typewriter'
+p967
+aS'computer'
+p968
+aS'e-reader'
+p969
+aS'laptop'
+p970
+aS'I-Pad'
+p971
+aS'netbook'
+p972
+aS'stylus'
+p973
+aS'pencil'
+p974
+aS'desk'
+p975
+aS'backpack'
+p976
+aS'shoe-rack'
+p977
+aS'note-book'
+p978
+aS'vellum'
+p979
+aS'chalk'
+p980
+aS'metal badge'
+p981
+aS'saddle'
+p982
+aS'spurs'
+p983
+aS'research paper'
+p984
+aS'roll book'
+p985
+aS'guest book'
+p986
+aS'cash machine'
+p987
+aS'pots'
+p988
+aS'pens'
+p989
+aS'plates'
+p990
+aS'dishes'
+p991
+aS'forks'
+p992
+aS'spoons'
+p993
+aS'knives'
+p994
+aS'plastic bags'
+p995
+aS'freezer bags'
+p996
+aS'samovar'
+p997
+aS'weather vane'
+p998
+aS'thermometer'
+p999
+aS'trash bins'
+p1000
+aS'blackboard'
+p1001
+aS'furnace'
+p1002
+aS'Franklin stove'
+p1003
+aS'oven'
+p1004
+aS'potbelly stove'
+p1005
+aS'wood stove'
+p1006
+aS'range'
+p1007
+aS'water heater'
+p1008
+aS'large appliance'
+p1009
+aS'refrigerator'
+p1010
+aS'washer-dryer'
+p1011
+aS'dishwasher'
+p1012
+aS'freezer'
+p1013
+aS'swing set'
+p1014
+aS'coffin'
+p1015
+aS'leaf piles'
+p1016
+aS'hay rolls'
+p1017
+aS'motors'
+p1018
+aS'dynamos'
+p1019
+ag56
+asS'Vehicles'
+p1020
+(lp1021
+S'Viking ship'
+p1022
+aS'ferryboat'
+p1023
+aS'ocean liners'
+p1024
+aS'oars'
+p1025
+aS'sails'
+p1026
+aS'dinghy'
+p1027
+aS'yacht'
+p1028
+aS'canoe'
+p1029
+aS'catamaran'
+p1030
+aS'gondola'
+p1031
+aS'fishing boat'
+p1032
+aS'battleship'
+p1033
+aS'air force carrier'
+p1034
+aS'clipper'
+p1035
+aS'dhow'
+p1036
+aS'dory destroyer'
+p1037
+aS'flatboat'
+p1038
+aS'houseboat'
+p1039
+aS'galleon'
+p1040
+aS'frigate'
+p1041
+aS'hydrofoil'
+p1042
+aS'junk'
+p1043
+aS'ketch'
+p1044
+aS'yawl'
+p1045
+aS'submarine'
+p1046
+aS'schooner'
+p1047
+aS'scow'
+p1048
+aS'flatbed truck'
+p1049
+aS'SUV'
+p1050
+aS'moving van'
+p1051
+aS'caboose'
+p1052
+aS'freight train'
+p1053
+aS'bullet train'
+p1054
+aS'metro'
+p1055
+aS'subway'
+p1056
+aS'cart'
+p1057
+aS'taxi'
+p1058
+aS'car'
+p1059
+aS'racing car'
+p1060
+aS'patrol car'
+p1061
+aS'beach buggy'
+p1062
+aS'dune buggy'
+p1063
+aS'dragster'
+p1064
+aS'motorcycle'
+p1065
+aS'go-cart'
+p1066
+aS'limo'
+p1067
+aS'stretch limo'
+p1068
+aS'station wagon'
+p1069
+aS'stock car'
+p1070
+aS'trolley'
+p1071
+aS'tram'
+p1072
+aS'bus'
+p1073
+aS'parachute'
+p1074
+aS'U-Haul'
+p1075
+aS'tractor trailer'
+p1076
+aS'golf cart'
+p1077
+aS'jeep'
+p1078
+aS'Ticonderoga'
+p1079
+aS'town car'
+p1080
+aS'big rig'
+p1081
+aS'bulldozer'
+p1082
+aS'dump truck'
+p1083
+aS'steamroller'
+p1084
+aS'jeep'
+p1085
+aS'tow truck'
+p1086
+aS'fire engine'
+p1087
+aS'police car'
+p1088
+aS'tank'
+p1089
+aS'locomotive'
+p1090
+ag56
+ag56
+asS'Water'
+p1091
+(lp1092
+S'ocean'
+p1093
+aS'oasis'
+p1094
+aS'sea'
+p1095
+aS'lake'
+p1096
+aS'salt lake'
+p1097
+aS'sea foam'
+p1098
+aS'waves'
+p1099
+aS'bubbles'
+p1100
+aS'current'
+p1101
+aS'run-off water'
+p1102
+aS'underground water'
+p1103
+aS'water basin'
+p1104
+aS'bridge'
+p1105
+aS'harbor'
+p1106
+aS'pond'
+p1107
+aS'wharf'
+p1108
+aS'pier'
+p1109
+aS'dock'
+p1110
+aS'port'
+p1111
+aS'shore'
+p1112
+aS'beach'
+p1113
+aS'sandbar'
+p1114
+aS'coast'
+p1115
+aS'river'
+p1116
+aS'brook'
+p1117
+aS'rivulet'
+p1118
+aS'puddle'
+p1119
+aS'waterfall'
+p1120
+aS'cascades'
+p1121
+aS'canal'
+p1122
+aS'channel'
+p1123
+aS'stream'
+p1124
+aS'creek'
+p1125
+aS'marsh'
+p1126
+aS'bog'
+p1127
+aS'swamp'
+p1128
+aS'bayou'
+p1129
+aS'estuary'
+p1130
+aS'whirlpool'
+p1131
+aS'eddy'
+p1132
+aS'geyser'
+p1133
+aS'well'
+p1134
+aS'sea'
+p1135
+aS'ship'
+p1136
+aS'sail'
+p1137
+aS'wind'
+p1138
+aS'breeze'
+p1139
+aS'wave'
+p1140
+aS'cloud'
+p1141
+aS'mast'
+p1142
+aS'captain'
+p1143
+aS'sailor'
+p1144
+aS'shark'
+p1145
+aS'whale'
+p1146
+aS'tuna'
+p1147
+aS'seashell'
+p1148
+aS'pirate'
+p1149
+aS'lad'
+p1150
+aS'girl'
+p1151
+aS'gull'
+p1152
+aS'reef'
+p1153
+aS'shore'
+p1154
+aS'mainland'
+p1155
+aS'moon'
+p1156
+aS'sun'
+p1157
+ag56
+asS'Weather'
+p1158
+(lp1159
+S'monsoon'
+p1160
+aS'hurricane'
+p1161
+aS'typhoon'
+p1162
+aS'air'
+p1163
+aS'snow'
+p1164
+aS'rain'
+p1165
+aS'sleet'
+p1166
+aS'storm'
+p1167
+aS'hail'
+p1168
+aS'blizzard'
+p1169
+aS'wind'
+p1170
+aS'breeze'
+p1171
+aS'gale'
+p1172
+aS'whirlwind'
+p1173
+aS'maelstrom'
+p1174
+aS'dust storm'
+p1175
+aS'cloudburst'
+p1176
+aS'tornado'
+p1177
+aS'twister'
+p1178
+aS'clouds'
+p1179
+aS'fog'
+p1180
+aS'pea soup'
+p1181
+aS'floods'
+p1182
+aS'flash flood'
+p1183
+aS'acid rain'
+p1184
+aS'aftershocks'
+p1185
+aS'tremors'
+p1186
+aS'earthquakes'
+p1187
+aS'lightning avalanche'
+p1188
+aS'eclipse'
+p1189
+aS'alpenglow'
+p1190
+aS'meteor shower'
+p1191
+aS'thunderbolt'
+p1192
+aS'tsunami'
+p1193
+aS'thunderhead'
+p1194
+aS'waterspout'
+p1195
+aS'smog'
+p1196
+aS'aneroid barometer'
+p1197
+aS'Fahrenheit thermometer'
+p1198
+aS'weather satellite'
+p1199
+aS'radiosonde'
+p1200
+aS'weather station'
+p1201
+aS'weather map'
+p1202
+asS'Music'
+p1203
+(lp1204
+S'xylophone'
+p1205
+aS'clavier'
+p1206
+aS'virginal'
+p1207
+aS'lute'
+p1208
+aS'drum'
+p1209
+aS'French Horn'
+p1210
+aS'English Horn'
+p1211
+aS'piano'
+p1212
+aS'violin'
+p1213
+aS'cello'
+p1214
+aS'guitar'
+p1215
+aS'flute'
+p1216
+aS'tuba'
+p1217
+aS'harp'
+p1218
+aS'mariachi'
+p1219
+aS'orchestra'
+p1220
+aS'oboe'
+p1221
+aS'bassoon'
+p1222
+aS'woodwinds'
+p1223
+aS'brass'
+p1224
+aS'viola'
+p1225
+aS'kettle drum'
+p1226
+aS'peyote drum'
+p1227
+aS'tambourine'
+p1228
+aS'tambour'
+p1229
+aS'xylophone'
+p1230
+aS'saxophone'
+p1231
+aS'marimba'
+p1232
+aS'maracas'
+p1233
+aS'glockenspiel'
+p1234
+aS'shofar'
+p1235
+aS'cymbals'
+p1236
+aS'kazoo'
+p1237
+aS'baby grand piano'
+p1238
+aS'dulcimer'
+p1239
+aS'harpsichord'
+p1240
+aS'accordion'
+p1241
+aS'lyre'
+p1242
+aS'fiddle'
+p1243
+aS'banjo'
+p1244
+aS'balalaika'
+p1245
+aS'sitar'
+p1246
+aS'ukulele'
+p1247
+aS'zither'
+p1248
+aS'bagpipes'
+p1249
+aS'piccolo'
+p1250
+aS'clarinet'
+p1251
+aS'cornet'
+p1252
+aS'bugle alpenhorn'
+p1253
+aS'panpipe'
+p1254
+aS'tuning fork'
+p1255
+aS'metronome'
+p1256
+aS'castanets'
+p1257
+aS'mixing console'
+p1258
+aS'woofers'
+p1259
+ag56
+asS'Human Body'
+p1260
+(lp1261
+S'eye'
+p1262
+aS'pupil'
+p1263
+aS'iris'
+p1264
+aS'retina'
+p1265
+aS'eyeball'
+p1266
+aS'eyelids eyelashes'
+p1267
+aS'eyebrows'
+p1268
+aS'lap'
+p1269
+aS'waist'
+p1270
+aS'belly'
+p1271
+aS'tummy'
+p1272
+aS'rear end'
+p1273
+aS'crotch'
+p1274
+aS'abdomen'
+p1275
+aS'beard'
+p1276
+aS'mustache'
+p1277
+aS'sideburns'
+p1278
+aS'fingernail'
+p1279
+aS'hand'
+p1280
+aS'forearm'
+p1281
+aS'arm'
+p1282
+aS'knuckles'
+p1283
+aS'thumb'
+p1284
+aS'wrist'
+p1285
+aS'elbow'
+p1286
+aS'leg'
+p1287
+aS'toes'
+p1288
+aS'knee'
+p1289
+aS'ankle'
+p1290
+aS'shin'
+p1291
+aS'thigh'
+p1292
+aS'hip'
+p1293
+aS'breast'
+p1294
+aS'chest'
+p1295
+aS'torso'
+p1296
+aS'tongue'
+p1297
+aS'lips'
+p1298
+aS'gums'
+p1299
+aS'mouth'
+p1300
+aS'teeth'
+p1301
+aS'bones'
+p1302
+aS'spine'
+p1303
+aS'throat'
+p1304
+aS'lungs'
+p1305
+aS'kidneys'
+p1306
+aS'intestines'
+p1307
+aS'colon'
+p1308
+aS'gall bladder'
+p1309
+aS'spleen'
+p1310
+aS'glands'
+p1311
+aS'blood'
+p1312
+aS'head'
+p1313
+aS'skull'
+p1314
+aS'brain'
+p1315
+aS'muscles'
+p1316
+aS'red blisters'
+p1317
+aS'curly hair'
+p1318
+ag56
+asS'Furniture'
+p1319
+(lp1320
+S'bedside table'
+p1321
+aS'chest of drawers'
+p1322
+aS'dresser'
+p1323
+aS'armoire'
+p1324
+aS'chiffonier'
+p1325
+aS'credenza'
+p1326
+aS'console'
+p1327
+aS'bookcase'
+p1328
+aS'buffet'
+p1329
+aS'armchair rocking chair'
+p1330
+aS'recliner'
+p1331
+aS'Adirondack chair'
+p1332
+aS'Easy chair'
+p1333
+aS'bench'
+p1334
+aS'banquette'
+p1335
+aS'chair'
+p1336
+aS'chaise lounge'
+p1337
+aS'Chippendale chair'
+p1338
+aS'couch'
+p1339
+aS'davenport'
+p1340
+aS'Chesterfield'
+p1341
+aS'sofa'
+p1342
+aS'armchair'
+p1343
+aS'ottoman folding chair'
+p1344
+aS'deck chair'
+p1345
+aS'love seat'
+p1346
+aS"director's chair fanback chair"
+p1347
+aS'high seat'
+p1348
+aS'divan'
+p1349
+aS'inglenook'
+p1350
+aS'pew'
+p1351
+aS'throne sectional'
+p1352
+aS'stool'
+p1353
+aS'potty chair'
+p1354
+aS'workbench'
+p1355
+aS'swivel chair night table'
+p1356
+aS'bed'
+p1357
+aS'four poster bed'
+p1358
+aS'daybed'
+p1359
+aS'bassinet'
+p1360
+aS'crib cradle'
+p1361
+aS'cot'
+p1362
+aS'foldaway bed'
+p1363
+aS'futon'
+p1364
+aS'hammock'
+p1365
+aS'tatami mat'
+p1366
+aS'rollaway bed'
+p1367
+aS'mattress. boxspring'
+p1368
+aS'waterbed'
+p1369
+aS'trundle bed'
+p1370
+aS'hassock'
+p1371
+aS'hat rack'
+p1372
+aS'step stool'
+p1373
+aS'footrest'
+p1374
+aS'footstool'
+p1375
+aS'tripod grandfather clock'
+p1376
+aS'cuckoo clock'
+p1377
+aS'mirror'
+p1378
+aS'Tiffany lamp'
+p1379
+aS'nightlight'
+p1380
+aS'recessed lighting'
+p1381
+aS'gooseneck lamp'
+p1382
+aS'torchiere'
+p1383
+aS'Chinese lantern Venetian lamp'
+p1384
+aS'track lighting'
+p1385
+aS'sunlamp'
+p1386
+aS'spotlight'
+p1387
+aS'ceiling fan cupboard'
+p1388
+aS'card table'
+p1389
+aS'hutch'
+p1390
+aS'locker'
+p1391
+aS'wet bar'
+p1392
+aS'vanity'
+p1393
+aS'filing cabinet'
+p1394
+aS'hope chest'
+p1395
+aS'china cabinet'
+p1396
+aS'sculpture'
+p1397
+aS'coffee table'
+p1398
+aS'painting'
+p1399
+aS'wall hanging'
+p1400
+ag56
+as.
