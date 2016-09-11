@@ -32,17 +32,14 @@ The parts of speech is denoted as follows:
 * [o] -> Nominative
 
 Credits:
-	syllable data from: http://www.speech.cs.cmu.edu/cgi-bin/cmudict
+[syllable data](http://www.speech.cs.cmu.edu/cgi-bin/cmudict)
 
-	provided Shakespeare's sonnets sample text from: 
-		http://www.shakespeares-sonnets.com/all.php
+[provided Shakespeare's sonnets sample text](http://www.shakespeares-sonnets.com/all.php
 
-	part of speech data from: http://icon.shef.ac.uk/Moby/mpos.html
+[part of speech data](http://icon.shef.ac.uk/Moby/mpos.html)
 
-	themed concrete nouns from:
-	http://www.writing.com/main/view_item/item_id/1757079-Concrete-Nouns-List
+[themed concrete nouns](http://www.writing.com/main/view_item/item_id/1757079-Concrete-Nouns-List)
 
-	abstract nouns from:
-	http://examples.yourdictionary.com/examples-of-abstract-nouns.html
+[abstract nouns](http://examples.yourdictionary.com/examples-of-abstract-nouns.html)
 
 	
