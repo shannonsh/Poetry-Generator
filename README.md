@@ -32,7 +32,7 @@ So if Shakespeare wrote on separate occasions "The flower..." "the sky" "the fla
 
 Once the user specifies a "seed" word to start the poem with, the program looks through the dictionary and randomly selects a word that has appeared after the word the user has chosen (in the case of 'the', the next word according to the example above would be either "flower", "sky", or "flame"). Then that randomly chosen word is used as the new "seed" to choose the next word, and so on. Additional weight is given to words that appear together often.
 
-The writing sample must be located in the folder 'poem engine'
+To create the structure of a Haiku, the program idenitifies how many more syllables it needs in each line and discards words that exceed the number of remaining syllables by looking at a database that contains the number of syllables in each word.
 
 ### Freeform poem: 
 > Why does the research paper persuade?  
